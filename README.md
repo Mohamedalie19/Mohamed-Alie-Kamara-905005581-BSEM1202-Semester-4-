@@ -67,8 +67,11 @@ This project was created to:
 * Expand content with more projects and achievements
 
 ## Screenshorts
-![alt text](<Screenshot 2026-04-23 114201.png>)
-![alt text](<Screenshot 2026-04-23 114320.png>)
+<img width="960" height="540" alt="Screenshot 2026-04-23 114201" src="https://github.com/user-attachments/assets/c1dfea7a-87dd-4868-8427-d13f880f212e" />
+<img width="960" height="540" alt="Screenshot 2026-04-23 114320" src="https://github.com/user-attachments/assets/f8143783-6f54-4a5b-a859-f38e7c6d5b34" />
+<img width="960" height="540" alt="Screenshot 2026-04-23 163157" src="https://github.com/user-attachments/assets/b5aa9537-37e1-4ade-a215-7e7e917daf66" />
+
+
 ##  Contact
 
 For inquiries or collaboration:
